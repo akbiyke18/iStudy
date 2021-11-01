@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">iStudy</string>
+    <string name="title">Выберите штат в котором хотели бы учиться</string>
+    <string name="continent">Америка</string>
+    <string name="country1">Вашингтон</string>
+    <string name="country6">Невада</string>
+    <string name="country5">Иллинойс</string>
+    <string name="country2">Орегон</string>
+    <string name="country3">Мичиган</string>
+    <string name="country4">Аризона</string>
+
+</resources>
